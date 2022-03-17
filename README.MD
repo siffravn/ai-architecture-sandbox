@@ -1,0 +1,1 @@
+Klippe klistret fra https://github.com/aimacode/aima-python

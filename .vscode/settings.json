@@ -1,0 +1,6 @@
+{
+    // Makes imports across directories possible!
+    "terminal.integrated.env.windows": {
+        "PYTHONPATH": "${workspaceFolder};${env:PYTHONPATH}"
+      }
+}
